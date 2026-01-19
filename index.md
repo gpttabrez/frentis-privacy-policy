@@ -1,125 +1,298 @@
-# 🛡️ Privacy Policy – Frentis
+🛡️ Privacy Policy – Frentis (Play-Console Aligned Version)
 
-**Version:** 1.0  
-**Last Updated:** 15 January 2026
+Version: 1.1
+Last Updated: 15 January 2026
 
-This Privacy Policy applies to **Advisory Mediacare Services**, owned by **Tabrez Pasha N**, operating the mobile application **“Frentis”** (hereinafter referred to as *“Frentis”*, *“we”*, *“us”*, or *“our”*).
+This Privacy Policy applies to Advisory Mediacare Services, owned by Tabrez Pasha N, operating the mobile application “Frentis” (hereinafter referred to as “Frentis”, “we”, “us”, or “our”).
 
-By using the Frentis application (the *“App”* or *“Platform”*), you agree to the collection and use of information in accordance with this Privacy Policy.
+By using the Frentis application (the “App” or “Platform”), you agree to the collection and use of information in accordance with this Privacy Policy.
 
-We value the trust you place in us and are committed to protecting your personal information.
+📥 1. Information We Collect
 
----
+We collect and process the following categories of data as declared in Google Play Data Safety:
 
-## 📥 Information We Collect
+A. Personal Information (Collected, Required)
 
-### 1. Personal Information
+We collect and store:
 
-We may collect the following information when you register or use Frentis:
+Name
 
-- Name  
-- Phone number  
-- Email address  
-- Delivery address  
+Email address
 
-### 2. Location Information
+Phone number
 
-Frentis may access your location **only while the app is open** in order to:
+Delivery address
 
-- Show service availability  
-- Assist with delivery operations  
+User account ID (Firebase UID or internal ID)
 
-Frentis **does not collect background location**.
+Purpose:
 
-### 3. Transaction Information
+App functionality
 
-When you place orders or make payments, we collect:
+Account management
 
-- Order details  
-- Transaction history  
-- Payment status  
+Order processing
 
-All payments are processed securely through trusted third-party payment providers.
+Delivery coordination
 
-### 4. Device & Usage Information
+Profile display
 
-We may collect:
+This data is stored in our backend (Firebase / secure cloud database).
 
-- Device type and operating system  
-- App usage data  
-- Crash diagnostics and performance data (via Firebase Crash Analytics)
+B. Financial Information
+1) User Payment Information (Collected + Shared)
 
----
+When you make a payment, your payment details are:
 
-## 🧠 How We Use Your Information
+Collected in the app
 
-Your information is used to:
+Shared with third-party payment providers (UPI / Razorpay / payment gateway)
 
-- Provide and manage your account  
-- Process orders and payments  
-- Schedule deliveries and services  
-- Improve app performance and user experience  
-- Prevent fraud and ensure security  
-- Communicate service updates and important notices  
+Frentis does NOT store your full card or UPI details on its own servers.
 
----
+Purpose of collection and sharing:
 
-## 🔐 Data Protection & Security
+App functionality — to complete your transaction.
 
-We implement appropriate technical and organizational measures to protect your information from unauthorized access, misuse, loss, or alteration.
+2) Purchase History (Collected, Required)
 
----
+We store:
 
-## 🤝 Third-Party Services
+Your orders
 
-Frentis uses trusted third-party services such as cloud services, analytics, authentication services, and payment gateways to operate the app.  
-These services process data under their own privacy policies and applicable laws.
+Items purchased
 
----
+Order status
 
-## ❌ What We Do Not Do
+Transaction records
 
-- We do **not** sell your personal data  
-- We do **not** share your information for advertising without consent  
-- We do **not** collect biometric, health, government ID, or SMS data  
+Purpose:
 
----
+App functionality
 
-## 👤 Your Rights
+Account management
 
-You have the right to:
+Receipts, delivery, refunds, and support
 
-- Access and update your personal information  
-- Request deletion of your data  
-- Withdraw consent by discontinuing use of the app  
+C. Location Information
 
----
+Frentis may access:
 
-## 🧒 Children’s Privacy
+Approximate location (area / city / pincode)
 
-Frentis is not intended for users under 18 years of age.  
-We do not knowingly collect personal information from minors.
+Precise location (GPS, if permission is granted)
 
----
+This is used for:
 
-## 🔄 Policy Updates
+Service availability
 
-We may update this Privacy Policy from time to time.  
-Changes will be reflected within the app and on our published policy page.
+Delivery assistance
 
----
+Address suggestions
 
-## 📞 Contact Information
+Users may deny location permission and manually enter their address instead.
 
-For any questions or concerns regarding this Privacy Policy:
+We do not track background location when the app is closed.
 
-**Company:** Advisory Mediacare Services  
-**Owner:** Tabrez Pasha N  
-**Location:** Bengaluru, India  
-**Email:** info.easy24x7@gmail.com  
+D. Messages (Collected, Required)
 
----
+We collect in-app messages, such as:
 
-## 🧾 Consent
+“Order placed”
 
-By using Frentis, you consent to the collection and use of information in accordance with this Privacy Policy.
+“Order shipped”
+
+“Payment successful/failed”
+
+These are stored with your order records for reference.
+
+Purpose: App functionality.
+
+E. App Activity
+
+We collect:
+
+1) App interactions
+
+Screen navigation
+
+Button clicks
+
+Cart actions
+
+Order actions
+
+Purpose:
+
+App functionality
+
+Analytics (to improve app performance)
+
+2) Other user-generated content
+
+Examples:
+
+Saved addresses
+
+Profile details
+
+Order notes (if any)
+
+This data is collected and stored, and is optional for users in some cases.
+
+Purpose:
+
+App functionality
+
+Account management
+
+F. App Info & Performance
+
+We collect:
+
+Crash logs
+
+Diagnostic data
+
+Through tools like Firebase Crashlytics and Play Console reports.
+
+Purpose:
+
+App functionality
+
+Analytics (to fix bugs and improve performance)
+
+G. Device or Other IDs (Collected, Required)
+
+We collect device identifiers such as:
+
+Firebase installation ID
+
+Session IDs
+
+Push notification tokens
+
+App instance identifiers
+
+These are required for:
+
+Login
+
+Notifications
+
+Order linking
+
+Session management
+
+🧠 2. How We Use Your Data
+
+We use your data for:
+
+Creating and managing accounts
+
+Processing orders and payments
+
+Showing order history
+
+Delivering products
+
+Sending in-app updates
+
+Fixing crashes and improving performance
+
+Securing the platform
+
+We do not sell your data and we do not use it for advertising.
+
+🤝 3. Data Sharing
+
+We share data only when necessary for app functionality:
+
+Shared with third parties
+
+Payment gateways — for completing transactions
+
+Cloud / Firebase services — for authentication, storage, analytics, and crash reporting
+
+We do not share data with advertisers.
+
+🔐 4. Data Security
+
+We protect your data using:
+
+HTTPS encryption in transit
+
+Secure cloud databases
+
+Restricted backend access
+
+However, no system is 100% secure.
+
+🗑️ 5. Data Deletion & Account Removal (Play Console Requirement)
+
+You can request deletion of your account and all associated personal data at any time.
+
+How to request deletion
+
+Visit:
+👉 https://gpttabrez.github.io/frentis-privacy-policy/delete-account
+
+Steps:
+
+Enter your registered email or phone number
+
+Verify identity (OTP / email, if requested)
+
+Submit deletion request
+
+What will be deleted
+
+Your user account
+
+Personal information
+
+Saved addresses
+
+Purchase history
+
+In-app data linked to your account
+
+Timeframe
+
+Deletion may take up to 7 working days across all systems.
+
+Important: Uninstalling the app does NOT delete your data. You must submit a request via the link above.
+
+👤 6. Your Rights
+
+You may:
+
+View your data
+
+Update profile information
+
+Request full account deletion
+
+Currently, Frentis supports full account deletion only (not partial deletion of individual records).
+
+🧒 7. Children’s Privacy
+
+Frentis is not intended for users under 18.
+We do not knowingly collect data from minors.
+
+If this happens, we will delete it immediately.
+
+🔄 8. Policy Updates
+
+We may update this policy. Changes will be posted here with a new “Last Updated” date.
+
+📞 9. Contact Us
+
+Advisory Mediacare Services
+Owner: Tabrez Pasha N
+Location: Bengaluru, India
+Email: info.easy24x7@gmail.com
+
+🧾 10. Consent
+
+By using Frentis, you consent to this Privacy Policy.
