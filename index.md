@@ -9,7 +9,7 @@ By using the Frentis application (the “App” or “Platform”), you agree to
 
 📥 1. Information We Collect
 
-We collect and process the following categories of data as declared in Google Play Data Safety:
+We collect and process the following categories of data as declared in Google Play Data Safety.
 
 A. Personal Information (Collected, Required)
 
@@ -91,12 +91,11 @@ Delivery assistance
 Address suggestions
 
 Users may deny location permission and manually enter their address instead.
-
 We do not track background location when the app is closed.
 
 D. Messages (Collected, Required)
 
-We collect in-app messages, such as:
+We collect in-app messages such as:
 
 “Order placed”
 
@@ -109,10 +108,9 @@ These are stored with your order records for reference.
 Purpose: App functionality.
 
 E. App Activity
+1) App interactions
 
 We collect:
-
-1) App interactions
 
 Screen navigation
 
@@ -138,7 +136,7 @@ Profile details
 
 Order notes (if any)
 
-This data is collected and stored, and is optional for users in some cases.
+This data is collected and stored, and is optional in some cases.
 
 Purpose:
 
@@ -202,13 +200,11 @@ Fixing crashes and improving performance
 
 Securing the platform
 
-We do not sell your data and we do not use it for advertising.
+We do not sell your data and do not use it for advertising.
 
 🤝 3. Data Sharing
 
 We share data only when necessary for app functionality:
-
-Shared with third parties
 
 Payment gateways — for completing transactions
 
@@ -261,7 +257,8 @@ Timeframe
 
 Deletion may take up to 7 working days across all systems.
 
-Important: Uninstalling the app does NOT delete your data. You must submit a request via the link above.
+Important: Uninstalling the app does NOT delete your data.
+You must submit a request via the link above.
 
 👤 6. Your Rights
 
