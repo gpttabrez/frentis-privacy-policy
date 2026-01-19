@@ -1,8 +1,8 @@
-# Request Account Deletion — Frentis Fresh
+# Request Account Deletion — Frentis App
 
-To delete your account, please follow these steps inside the **Frentis Fresh app**:
+To delete your account, please follow these steps inside the **Frentis app**:
 
-1. Open **Frentis Fresh**
+1. Open **Frentis App**
 2. Go to **Profile → Settings**
 3. Tap **Delete Account**
 4. Confirm deletion
