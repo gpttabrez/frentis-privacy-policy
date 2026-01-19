@@ -1,4 +1,4 @@
-# 🛡️ Privacy Policy – Frentis 
+# 🛡️ Privacy Policy – Frentis (Play-Console Aligned)
 
 **Version:** 1.1  
 **Last Updated:** 15 January 2026  
@@ -257,7 +257,7 @@ We may update this policy. Changes will be posted here with a new “Last Update
 
 **Advisory Mediacare Services**  
 **Owner:** Tabrez Pasha N  
-**Location:** Bengaluru, India.  
+**Location:** Bengaluru, India  
 **Email:** info.easy24x7@gmail.com  
 
 ---
