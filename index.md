@@ -202,7 +202,7 @@ You can request deletion of your account and all associated personal data at any
 ### **How to request deletion**
 
 Visit:  
-👉 **https://gpttabrez.github.io/frentis-privacy-policy/delete-account**
+**https://gpttabrez.github.io/frentis-privacy-policy/delete-account**
 
 Steps:
 1. Enter your registered email or phone number  
