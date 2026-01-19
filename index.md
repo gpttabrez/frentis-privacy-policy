@@ -1,4 +1,4 @@
-# 🛡️ Privacy Policy – Frentis (Play-Console Aligned)
+# 🛡️ Privacy Policy – Frentis 
 
 **Version:** 1.1  
 **Last Updated:** 15 January 2026  
