@@ -257,7 +257,7 @@ We may update this policy. Changes will be posted here with a new “Last Update
 
 **Advisory Mediacare Services**  
 **Owner:** Tabrez Pasha N  
-**Location:** Bengaluru, India  
+**Location:** Bengaluru, India.  
 **Email:** info.easy24x7@gmail.com  
 
 ---
